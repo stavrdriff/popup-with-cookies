@@ -3,6 +3,7 @@ function getRedirect() {
   window.location.href = url;
 }
 
+
 function redirectLinkEnabled(e) {
   e.preventDefault();
   
